@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Angelov | Lorenzo Valerio PhD</title>
+    <link>https://cnd.iit.cnr.it/lorenzo/authors/p.-angelov/</link>
+      <atom:link href="https://cnd.iit.cnr.it/lorenzo/authors/p.-angelov/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Angelov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnd.iit.cnr.it/lorenzo/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>P. Angelov</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/authors/p.-angelov/</link>
+    </image>
+    
+    <item>
+      <title>3nd IEEE International Workshop on Pervasive and Resource-constrained AI co-located with PerCom</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/talk/3nd-ieee-international-workshop-on-pervasive-and-resource-constrained-ai-co-located-with-percom/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/talk/3nd-ieee-international-workshop-on-pervasive-and-resource-constrained-ai-co-located-with-percom/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2nd IEEE International Workshop on Pervasive and Resource-constrained AI co-located with PerCom</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/talk/2nd-ieee-international-workshop-on-pervasive-and-resource-constrained-ai-co-located-with-percom/</link>
+      <pubDate>Fri, 17 Mar 2023 13:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/talk/2nd-ieee-international-workshop-on-pervasive-and-resource-constrained-ai-co-located-with-percom/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

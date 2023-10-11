@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raffaele Bruno | Lorenzo Valerio PhD</title>
+    <link>https://cnd.iit.cnr.it/lorenzo/authors/raffaele-bruno/</link>
+      <atom:link href="https://cnd.iit.cnr.it/lorenzo/authors/raffaele-bruno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raffaele Bruno</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnd.iit.cnr.it/lorenzo/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Raffaele Bruno</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/authors/raffaele-bruno/</link>
+    </image>
+    
+    <item>
+      <title>Stratégie d&#39;apprentissage pour le multicast LTE avec communications D2D</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2016-strategie/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2016-strategie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A joint multicast/D2D learning-based approach to LTE traffic offloading</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2015-joint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2015-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular traffic offloading via Opportunistic Networking with Reinforcement Learning</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-cellular/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-cellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offloading cellular traffic with opportunistic networks: a feasibility study</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-offloading/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-offloading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive data offloading in opportunistic networks through an actor-critic learning method</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2014-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2014-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

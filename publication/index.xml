@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lorenzo Valerio PhD</title>
+    <link>https://cnd.iit.cnr.it/lorenzo/publication/</link>
+      <atom:link href="https://cnd.iit.cnr.it/lorenzo/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnd.iit.cnr.it/lorenzo/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/</link>
+    </image>
+    
+    <item>
+      <title>Anomaly Detection through Unsupervised Federated Learning</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/nardi-2022-anomaly/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/nardi-2022-anomaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic hard pruning of neural networks at the edge of the internet</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2022-dynamic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2022-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated feature selection for cyber-physical systems of systems</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/cassara-2022-federated/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/cassara-2022-federated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Semi-Supervised Classification of Multimedia Flows for 3D Networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/bano-2022-federated/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/bano-2022-federated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centralised vs decentralised anomaly detection: when local and imbalanced data are beneficial</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/nardi-2021-centralised/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/nardi-2021-centralised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marvel: Multimodal extreme scale data analytics for smart cities environments</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/bajovic-2021-marvel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/bajovic-2021-marvel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising cost vs accuracy of decentralised analytics in Fog computing environments</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2021-optimising/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2021-optimising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apprendimento di Reti Neurali su Dispositivi a Risorse Limitate</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/nardini-2019-apprendimento/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/nardini-2019-apprendimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apprendimento distribuito e federato basato su Hypothesis Transfer Learning</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2019-apprendimento/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2019-apprendimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Distributed Learning in 5G Fog Computing Environments</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2019-efficient/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Transfer Learning for Distributed Knowledge Extraction by Intelligent Machines</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2019-hypothesis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2019-hypothesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Effective Neural Networks on Resource-Constrained Devices</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/nardini-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/nardini-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficient distributed analytics at the edge of the network for IoT environments</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2018-energy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2018-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A communication efficient distributed learning framework for smart environments</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2017-communication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2017-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal trade-off between accuracy and network cost of distributed learning in Mobile Edge Computing: An analytical approach</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2017-optimal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2017-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy vs. traffic trade-off of Learning IoT Data Patterns at the Edge with Hypothesis Transfer Learning</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-accuracy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-accuracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and evaluation of a cognitive approach for disseminating semantic knowledge and content in opportunistic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2016-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2016-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Here&amp;now: data-centric local social interactions through opportunistic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/karkkainen-2016-here/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/karkkainen-2016-here/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis transfer learning for efficient data computing in smart cities environments</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-hypothesis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-hypothesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Section on Opportunistic Communication and Computation</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-special/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-special/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratégie d&#39;apprentissage pour le multicast LTE avec communications D2D</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2016-strategie/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2016-strategie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A joint multicast/D2D learning-based approach to LTE traffic offloading</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2015-joint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/rebecchi-2015-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular traffic offloading via Opportunistic Networking with Reinforcement Learning</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-cellular/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-cellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offloading cellular traffic with opportunistic networks: a feasibility study</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-offloading/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-offloading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable data dissemination in opportunistic networks through cognitive methods</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-scalable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2015-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak social ties improve content delivery in behavior-aware opportunistic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/pagani-2015-weak/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/pagani-2015-weak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive data offloading in opportunistic networks through an actor-critic learning method</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2014-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2014-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cognitive-based solution for semantic knowledge and content dissemination in opportunistic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2013-cognitive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2013-cognitive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A local algorithm for detecting community structures in dynamic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/massaro-2013-local/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/massaro-2013-local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cognitive-inspired algorithm for detecting communities in mobility networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/massaro-2013-application/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/massaro-2013-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomic Cognitive-based Data Dissemination in Opportunistic Networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2013-autonomic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2013-autonomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic mobility models in space and time</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2012-stochastic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2012-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified learning space for a network of mobile neurons</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-unified/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetic Morphogenesis of a Multilayer Perceptron.</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-kinetic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-kinetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility timing for agent communities, a cue for advanced connectionist systems</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-mobility/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training a network of mobile neurons</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-training/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2011-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A moving agent metaphor to model some motions of the brain actors</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-moving/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-moving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An opportunistic platform for android-based mobile devices</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/meroni-2010-opportunistic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/meroni-2010-opportunistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relevance regression learning with support vector machines</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-relevance/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-relevance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless domotic: an enabling platform for granular intelligence</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-wireless/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering regression data quality through clustering methods</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/malchiodi-2009-discovering/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/malchiodi-2009-discovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a space-time mobility model for social communities</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2009-toward/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2009-toward/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

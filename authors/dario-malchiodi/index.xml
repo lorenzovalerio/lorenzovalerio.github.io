@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dario Malchiodi | Lorenzo Valerio PhD</title>
+    <link>https://cnd.iit.cnr.it/lorenzo/authors/dario-malchiodi/</link>
+      <atom:link href="https://cnd.iit.cnr.it/lorenzo/authors/dario-malchiodi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dario Malchiodi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnd.iit.cnr.it/lorenzo/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dario Malchiodi</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/authors/dario-malchiodi/</link>
+    </image>
+    
+    <item>
+      <title>Relevance regression learning with support vector machines</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-relevance/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/apolloni-2010-relevance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering regression data quality through clustering methods</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/malchiodi-2009-discovering/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/malchiodi-2009-discovering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

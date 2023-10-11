@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matteo Mordacchini | Lorenzo Valerio PhD</title>
+    <link>https://cnd.iit.cnr.it/lorenzo/authors/matteo-mordacchini/</link>
+      <atom:link href="https://cnd.iit.cnr.it/lorenzo/authors/matteo-mordacchini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matteo Mordacchini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnd.iit.cnr.it/lorenzo/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Matteo Mordacchini</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/authors/matteo-mordacchini/</link>
+    </image>
+    
+    <item>
+      <title>Design and evaluation of a cognitive approach for disseminating semantic knowledge and content in opportunistic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2016-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2016-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Section on Opportunistic Communication and Computation</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-special/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/valerio-2016-special/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cognitive-based solution for semantic knowledge and content dissemination in opportunistic networks</title>
+      <link>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2013-cognitive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnd.iit.cnr.it/lorenzo/publication/mordacchini-2013-cognitive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
