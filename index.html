@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Academic Homepage — Starter</title>
+  <meta name="description" content="A clean academic homepage template you can deploy on GitHub Pages." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="nav">
+    <div class="nav-inner">
+      <div class="brand">
+        <div class="brand-badge" aria-hidden="true"></div>
+        <span>Academic Homepage</span>
+      </div>
+      <nav class="nav-links">
+        <a href="#bio">Bio</a>
+        <a href="#publications">Publications</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#service">Service</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="panel card">
+        <h1 class="h1">Lorenzo — <span class="kicker">Researcher</span></h1>
+        <p class="p">
+          Short bio goes here. Keep it to 2–3 sentences describing research interests,
+          current position, and affiliations. Replace all placeholder text with your own.
+        </p>
+        <div class="btn-row" style="margin-top:16px">
+          <a class="btn" href="#publications">View Publications</a>
+          <a class="btn btn-ghost" href="#" target="_blank" rel="noopener">Download CV</a>
+        </div>
+      </div>
+      <div class="panel card" style="text-align:center">
+        <img src="assets/profile.svg" alt="Profile placeholder" width="420" height="420" />
+      </div>
+    </section>
+
+    <section id="bio" class="grid grid-2" style="margin-top:22px">
+      <div class="card">
+        <h2 class="h2">Research Interests</h2>
+        <p class="p">Networking • Distributed systems • Security • Measurements • <em>edit me</em></p>
+      </div>
+      <div class="card">
+        <h2 class="h2">Affiliations</h2>
+        <p class="p">Institute / Lab • University • Location • <em>edit me</em></p>
+      </div>
+    </section>
+
+    <section id="publications" style="margin-top:22px">
+      <div class="card">
+        <h2 class="h2">Selected Publications</h2>
+        <ul id="pubs-list" class="list"></ul>
+      </div>
+    </section>
+
+    <section id="teaching" class="grid grid-2" style="margin-top:22px">
+      <div class="card">
+        <h2 class="h2">Teaching</h2>
+        <ul id="teaching-list" class="list"></ul>
+      </div>
+      <div class="card">
+        <h2 class="h2">Service</h2>
+        <ul id="service-list" class="list"></ul>
+      </div>
+    </section>
+
+    <section id="contact" style="margin-top:22px">
+      <div class="card">
+        <h2 class="h2">Contact</h2>
+        <p class="p">
+          <strong>Email:</strong> <a href="mailto:firstname.lastname@example.org">firstname.lastname@example.org</a><br/>
+          <strong>Office:</strong> Room 123, Building, City, Country<br/>
+          <strong>Links:</strong> <a href="#" target="_blank" rel="noopener">Google Scholar</a> · <a href="#" target="_blank" rel="noopener">DBLP</a> · <a href="#" target="_blank" rel="noopener">ORCID</a>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div>© <span id="year"></span> Your Name. Built with ♥ and GitHub Pages.</div>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
