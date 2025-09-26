@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://cnd.iit.cnr.it/lorenzo/sitemap.xml
