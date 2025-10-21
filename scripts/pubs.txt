@@ -1,0 +1,57 @@
+publications: [
+  {
+    "title": "Federated feature selection for cyber-physical systems of systems",
+    "authors": "Pietro Cassar\u00e1 and Alberto Gotta and Lorenzo Valerio",
+    "venue": "2022",
+    "links": [
+      {
+        "label": "PDF",
+        "href": "https://ieeexplore.ieee.org/abstract/document/9783110/"
+      }
+    ]
+  },
+  {
+    "title": "Energy efficient distributed analytics at the edge of the network for IoT environments",
+    "authors": "Lorenzo Valerio and Marco Conti and Andrea Passarella",
+    "venue": "2018",
+    "links": [
+      {
+        "label": "PDF",
+        "href": "https://www.sciencedirect.com/science/article/pii/S1574119218300932"
+      }
+    ]
+  },
+  {
+    "title": "A communication efficient distributed learning framework for smart environments",
+    "authors": "Lorenzo Valerio and Andrea Passarella and Marco Conti",
+    "venue": "2017",
+    "links": [
+      {
+        "label": "PDF",
+        "href": "https://www.sciencedirect.com/science/article/pii/S1574119217303875"
+      }
+    ]
+  },
+  {
+    "title": "An opportunistic platform for android-based mobile devices",
+    "authors": "Paolo Meroni and Elena Pagani and Gian Paolo Rossi and Lorenzo Valerio",
+    "venue": "2010",
+    "links": [
+      {
+        "label": "PDF",
+        "href": "https://dl.acm.org/doi/abs/10.1145/1755743.1755783"
+      }
+    ]
+  },
+  {
+    "title": "Hypothesis transfer learning for efficient data computing in smart cities environments",
+    "authors": "Lorenzo Valerio and Andrea Passarella and Marco Conti",
+    "venue": "2016",
+    "links": [
+      {
+        "label": "PDF",
+        "href": "https://ieeexplore.ieee.org/abstract/document/7501696/"
+      }
+    ]
+  }
+]
