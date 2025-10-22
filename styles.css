@@ -64,3 +64,33 @@ button, .btn{background:linear-gradient(135deg,var(--accent),var(--accent-2));bo
 .btn-row{display:flex;gap:12px;flex-wrap:wrap}
 small{color:var(--muted)}
 code{background:rgba(255,255,255,.08);padding:2px 6px;border-radius:8px}
+
+/* List with magnifying glass */
+.search-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+.search-list li::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  content: "\f002";       /* magnifying glass */
+  margin-right: 8px;
+  color: #0073e6;         /* optional: blue */
+}
+
+/* List with graduation cap */
+.graduate-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.graduate-list li::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  content: "\f19d";       /* graduation cap */
+  margin-right: 8px;
+  color: #333;            /* optional: black */
+  color: #0073e6;         /* optional: blue */
+}

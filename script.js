@@ -59,12 +59,10 @@ const data = {
     }
   ],
   teaching: [
-    { title: "Introduction to Federated Learning, coping with heterogeneity", course: "International Student Workshop on \"The Interplay between Machine Learning and Communications Systems\"", venue: "CTTC, Barcelona, Spain", term: "May 13-17, 2024", role: "Lecturer", link: "#" },
-    { title: "Model Compression/DNN Pruning", course: "Summer School on Deep Learning for Autonomous Systems and Smart Cities", venue: "Aarhus University, Aarhus, Danemark", term: "May 23-26, 2023", role: "Lecturer", link: "#" },
+    { title: "Introduction to Federated Learning, coping with heterogeneity", course: "International Student Workshop on \"The Interplay between Machine Learning and Communications Systems\"", venue: "CTTC, Barcelona, Spain", term: "May 13-17, 2024", role: "Invited Speaker", link: "#" },
+    { title: "Model Compression/DNN Pruning", course: "Summer School on Deep Learning for Autonomous Systems and Smart Cities", venue: "Aarhus University, Aarhus, Danemark", term: "May 23-26, 2023", role: "Invited Speaker", link: "#" },
   ],
   service: [
-    { role: "Guest Editor", venue: "Elsevier Pervasive and Mobile Computing, 2023" },
-    { role: "Guest Editor", venue: "Elsevier Computer Communications, 2016" },
     { role: "PC Member", venue: "IEEE Percom 2025" },
     { role: "PC Member", venue: "AAAI 2022-24" },
     { role: "PC Member", venue: "ANT 2021" },
@@ -86,13 +84,19 @@ const data = {
     { name: "FP7 MOTO", description: "Mobile opportunistic Traffic Offloading", year: "2025", link: "https://cordis.europa.eu/project/id/317959" },
   ],
   organization: [
-    { role: "Organizer", event: "4th Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom", venue: "Washington, DC, USA", date: "2025" },
-    { role: "Organizer", event: "3rd Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom", venue: "Biarritz, France", date: "2024" },
-    { role: "Organizer", event: "2nd Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom", venue: "Atlanta, Georgia, USA", date: "2023" },
-    { role: "Organizer", event: "1st Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom (virtual)", venue: "Pisa, Italy", date: "2022" },
-    { role: "Organizer", event: "SS on Edge-Fog-Cloud machine learning for smart cities @ EUSIPCO", venue: "Belgrad, Serbia", date: "2022" },
+    { role: "Workshop Organizer", event: "4th Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom", venue: "Washington, DC, USA", date: "2025" },
+    { role: "Workshop Organizer", event: "3rd Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom", venue: "Biarritz, France", date: "2024" },
+    { role: "Workshop Organizer", event: "2nd Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom", venue: "Atlanta, Georgia, USA", date: "2023" },
+    { role: "Workshop Organizer", event: "1st Workshop on Pervasive and Resource-constrained Artificial Intelligence, co-located to IEEE Percom (virtual)", venue: "Pisa, Italy", date: "2022" },
+    { role: "Workshop Organizer", event: "SS on Edge-Fog-Cloud machine learning for smart cities @ EUSIPCO", venue: "Belgrad, Serbia", date: "2022" },
     { role: "Track Chair", event: "Track on \"Big Data and AI\" @ IEEE Conference on Mobile Sensing and Netowrking (MSN)", venue: "", date: "2022" },
-    { role: "Organizer", event: "9th Intl. Workshop on Autonomic and Cognitive Communications, co-located with IEEE WoWMoM 2015", venue: "Pisa, Italy", date: "2015" },
+    { role: "Workshop Organizer", event: "9th Intl. Workshop on Autonomic and Cognitive Communications, co-located with IEEE WoWMoM 2015", venue: "Pisa, Italy", date: "2015" },
+  ],
+  editorial: [
+    { role: "Editorial Board Member", venue: "Elsevier Computer Communications, 2015-present" },
+    { role: "Guest Editor", venue: "Elsevier Pervasive and Mobile Computing, 2023" },
+    { role: "Guest Editor", venue: "Elsevier Computer Communications, 2016" },
+
   ]
 };
 
@@ -118,17 +122,11 @@ document.addEventListener("DOMContentLoaded", () => {
   `);
   renderList("teaching-list", data.teaching, t => `
     <li>
-      <div><small>${t.term}</small> -- ${t.role} </div>
-      <div>${t.title}</div>
-      <div>${t.course} </div>
-      <div>${t.venue}</small></div>
+      <div><small>${t.term}</small> - ${t.role} </div>
+      <div>Title: ${t.title}</div>
+      <div>Venue: ${t.course} </div>
+      <div>Location: ${t.venue}</small></div>
       ${t.link ? `<div style="margin-top:8px"><a class="badge" href="${t.link}" target="_blank" rel="noopener">Syllabus</a></div>` : ""}
-    </li>
-  `);
-  renderList("service-list", data.service, s => `
-    <li>
-      <div><strong>${s.role}</strong></div>
-      <div><small>${s.venue}</small></div>
     </li>
   `);
   renderList("project-list", data.projects, r => `
@@ -138,12 +136,24 @@ document.addEventListener("DOMContentLoaded", () => {
       <div><small>${r.description}</small></div>
     </li>
   `);
-  renderList("event-list", data.organization, o => `
+  renderList("organization-list", data.organization, o => `
     <li>
       <div class="kicker">${o.date}-${o.event}</div>
       <div>${o.venue}</div>
       <div><strong>${o.role}</strong></div>
       <div><small>${o.date}</small></div>
+    </li>
+  `);
+  renderList("editorial-list", data.editorial, e => `
+    <li>
+      <div><strong>${e.venue}</strong></div>
+      <div>${e.role}</div>
+    </li>
+  `);
+  renderList("service-list", data.service, s => `
+    <li>
+      <div><strong>${s.venue}</strong></div>
+      <div>${s.role}</div>
     </li>
   `);
 });
