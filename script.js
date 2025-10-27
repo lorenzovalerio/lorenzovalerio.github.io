@@ -59,17 +59,18 @@ const data = {
     }
   ],
   teaching: [
+    { title: "Efficient Training at the edge", course: "Workshop on Sustainable AI for NLP @ IEEE International Joint Conference on Neural Networks (IJCNN)", venue: "Rome, Italy", term: "June 30, 2025", role: "Keynote Speaker", link: "#" },
     { title: "Introduction to Federated Learning, coping with heterogeneity", course: "International Student Workshop on \"The Interplay between Machine Learning and Communications Systems\"", venue: "CTTC, Barcelona, Spain", term: "May 13-17, 2024", role: "Invited Speaker", link: "#" },
     { title: "Model Compression/DNN Pruning", course: "Summer School on Deep Learning for Autonomous Systems and Smart Cities", venue: "Aarhus University, Aarhus, Danemark", term: "May 23-26, 2023", role: "Invited Speaker", link: "#" },
   ],
   service: [
-    { role: "PC Member", venue: "IEEE Percom 2025" },
-    { role: "PC Member", venue: "AAAI 2022,2023,2024,2025" },
-    { role: "PC Member", venue: "ANT 2021" },
-    { role: "Reviewer", venue: "IEEE IJCNN 2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025" },
-    { role: "Reviewer", venue: "EUSIPCO 2022" },
-    { role: "Reviewer", venue: "SIGIR 2021" },
-    { role: "Reviewer", venue: "ANT 2021,2022" },
+    { role: "PC Member", venue: "IEEE Percom", date: "2025" },
+    { role: "PC Member", venue: "AAAI", date: "2022, 2023, 2024, 2025" },
+    { role: "PC Member", venue: "ANT", data: "2021" },
+    { role: "Reviewer", venue: "IEEE IJCNN", date: "2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025" },
+    { role: "Reviewer", venue: "EUSIPCO", date: "2022" },
+    { role: "Reviewer", venue: "SIGIR", date: "2021" },
+    { role: "Reviewer", venue: "ANT", date: "2021, 2022" },
   ],
   projects: [
     { name: "PNRR-RESTART", description: "Reserach and innovation on future telecommunications systems and networks, to make Italy more Smart", year: "2023-present", link: "https://www.fondazione-restart.it/project/" },
@@ -96,8 +97,21 @@ const data = {
     { role: "Editorial Board Member", venue: "Elsevier Computer Communications, 2015-present" },
     { role: "Guest Editor", venue: "Elsevier Pervasive and Mobile Computing, 2023" },
     { role: "Guest Editor", venue: "Elsevier Computer Communications, 2016" },
-
-  ]
+  ],
+  awards: [
+    { year: "2023", award: "Best Paper Award", venue: "IEEE ICT-DM 2023" },
+    { year: "2023", award: "Best Paper Award", venue: "IIT-Grant Comptetion" },
+    { year: "2016", award: "Best Paper Nomination", venue: "IEEE Smartcomp 2016" },
+    { year: "2015", award: "Outstanding contribution in Reviewing", venue: "Elsevier Computer Communications" },
+    { year: "2013", award: "Best Paper Award", venue: "IEEE WoWMoM 2013 " },
+  ],
+  advisor: [
+    { dates: "2024-present", name: "Samuele Sabella", program: "National PhD on AI - AI for Society @ Unipi, Pisa, Italy", topic: "Decentralized Representation Learning", link: "#" },
+    { dates: "2023-present", name: "Matteo Gregorini", program: "National PhD on AI - AI for Society @ Unipi, Pisa, Italy", topic: "Causality in pervasive systems" },
+    { dates: "2022-present", name: "Luigi Palmieri", program: "National PhD on AI - AI for Society @ Unipi, Pisa, Italy", topic: "Network Effects on Fully-Decentralized Learning", link: "#" },
+    { dates: "2022-present", name: "Ravi Dhiman", program: "PhD program on Software Quality @ IMT-Lucca, Lucca, Italy", topic: "Neural network compression", link: "#" },
+    { dates: "2021-2025", name: "Mirko Nardi", program: "PhD program on Data Science @ Scuola Normale Superiore, Pisa, Italy", topic: "Unsupervised Federated Learning at the Edge", link: "#" },
+  ],
 };
 
 function renderList(id, items, renderItem) {
@@ -120,13 +134,13 @@ document.addEventListener("DOMContentLoaded", () => {
       <div style="margin-top:8px">${linkBadges(p.links)}</div>
     </li>
   `);
-  renderList("teaching-list", data.teaching, t => `
+  renderList("talks-list", data.teaching, t => `
     <li>
       <div><small>${t.term}</small> - ${t.role} </div>
       <div>Title: ${t.title}</div>
       <div>Venue: ${t.course} </div>
       <div>Location: ${t.venue}</small></div>
-      ${t.link ? `<div style="margin-top:8px"><a class="badge" href="${t.link}" target="_blank" rel="noopener">Syllabus</a></div>` : ""}
+      <!--${t.link ? `<div style="margin-top:8px"><a class="badge" href="${t.link}" target="_blank" rel="noopener">Syllabus</a></div>` : ""}-->
     </li>
   `);
   renderList("project-list", data.projects, r => `
@@ -152,8 +166,21 @@ document.addEventListener("DOMContentLoaded", () => {
   `);
   renderList("service-list", data.service, s => `
     <li>
-      <div><strong>${s.venue}</strong></div>
+      <div><strong>${s.venue}</strong> - <small>${s.date}</small></div>
       <div>${s.role}</div>
     </li>
+  `);
+  renderList("awards-list", data.awards, aw => `
+    <li>
+      <div>${aw.year} - ${aw.award} - ${aw.venue} </div>
+    </li>
+  `);
+  renderList("advisor-list", data.advisor, adv => `
+  <li>
+    <div>
+[${adv.dates}] <strong>${adv.name}</strong> - <a href="${adv.link}">${adv.program}</a><br />
+Topic: ${adv.topic}
+<\div>
+  </li>
   `);
 });
