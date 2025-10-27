@@ -64,12 +64,12 @@ const data = {
   ],
   service: [
     { role: "PC Member", venue: "IEEE Percom 2025" },
-    { role: "PC Member", venue: "AAAI 2022-24" },
+    { role: "PC Member", venue: "AAAI 2022,2023,2024,2025" },
     { role: "PC Member", venue: "ANT 2021" },
-    { role: "Reviewer", venue: "IEEE IJCNN 2015-present" },
+    { role: "Reviewer", venue: "IEEE IJCNN 2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025" },
     { role: "Reviewer", venue: "EUSIPCO 2022" },
     { role: "Reviewer", venue: "SIGIR 2021" },
-    { role: "Reviewer", venue: "ANT 2021-22" },
+    { role: "Reviewer", venue: "ANT 2021,2022" },
   ],
   projects: [
     { name: "PNRR-RESTART", description: "Reserach and innovation on future telecommunications systems and networks, to make Italy more Smart", year: "2023-present", link: "https://www.fondazione-restart.it/project/" },
